@@ -8,6 +8,7 @@ function App() {
       </div>
 
       <p>This is a paragraph.</p>
+      <p>Here's another paragraph.</p>
     </>
     
   )
