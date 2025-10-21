@@ -2,9 +2,16 @@ import './App.css'
 
 function App() {
   return (
-    <div>
+    <>
+      <div>
       This is the frontend.
-    </div>
+      </div>
+
+      <p>This is a paragraph.</p>
+      <p>Here's another paragraph.</p>
+      <p>Testing another paragraph.</p>
+    </>
+    
   )
 }
 
